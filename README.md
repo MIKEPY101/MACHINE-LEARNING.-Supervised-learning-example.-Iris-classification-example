@@ -1,0 +1,2 @@
+# MACHINE-LEARNING.-Supervised-learning-example.-Iris-classification-example
+The best way to think about data within Scikit-Learn is in terms of tables of data. For example, consider the Iris dataset, famously analyzed by Ronald Fisher in 1936. # Supervised learning example: Iris classification. Our question. Given a model trained on a portion of the Iris data, how well can we predict the remaining labels?
